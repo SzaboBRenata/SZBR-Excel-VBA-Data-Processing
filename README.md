@@ -6,11 +6,11 @@ Project description
 
 1. MergeFiles – Excel files merging
 
-	Purpose: Combine five Excel files from the adat folder into one worksheet in the macro-enabled workbook.
+	Purpose: Combine five Excel files from the ADAT folder into one worksheet in the macro-enabled workbook.
 
 	Steps
 
-		1.Place the five input Excel files in the adat folder.
+		1.Place the five input Excel files in the ADAT folder.
 
 		2.Open SZBR_Excel_VBA_Data_Processing.xlsm.
 
@@ -38,7 +38,7 @@ Project structure
 
 	SZBR_Excel_VBA_Data_Processing.xlsm – Macro-enabled Excel workbook containing both VBA macros.
 
-	adat/ – Five input Excel files for the merging process.
+	ADAT/ – Five input Excel files for the merging process.
 
 	forrasadatok.xlsx – Input file for the county-based export.
 
